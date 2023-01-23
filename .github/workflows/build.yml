@@ -1,4 +1,4 @@
-name: YT-AT
+name: YTVanced
 on:
   push:
     paths:
